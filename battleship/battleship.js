@@ -4,7 +4,7 @@ var location2=location1+1;
 var location3=location2+1;
 
 var guess;
-var hits=0
+var hits=0;
 var guesses=0;
 
 var isSunk=false;
